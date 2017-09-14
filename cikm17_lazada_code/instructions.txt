@@ -1,0 +1,16 @@
+Instructions
+
+To reproduce our result please go into coresponding folder of deep and wide learning.
+Please follow the structure and get the external resource such as word2vec and binaries here.
+ https://drive.google.com/open?id=0BzRr4qZTO0vAWjVFaHd1MXhERTQ
+
+Submission
+
+- Report 4 pages in ACM format
+- Code
+
+Team:
+
+ - Lam Thanh Pham
+ - Hieu Quang Vu
+
